@@ -4,7 +4,6 @@
 🚀 **Web Developer | Tech Enthusiast | Problem Solver**  
 🌍 **Based in Pekalongan, Indonesia**  
 
----
 
 ## **🧑‍💻 About Me**  
 
@@ -13,7 +12,6 @@
 - 💡 Passionate about **building responsive and interactive web applications**  
 - ⚡ Love contributing to **open-source** and solving **real-world problems**  
 
----
 
 ## **🔧 Tech Stack & Tools**  
 
@@ -23,7 +21,6 @@
 ### **💻 Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![React](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
----
 
 ## **📊 GitHub Stats**  
 
@@ -33,7 +30,6 @@
 
 </div>  
 
----
 
 ## **📌 Connect with Me**  
 
@@ -42,13 +38,10 @@
 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/fbiakbr)  
 🐦 **Twitter:** [@yourtwitterhandle](https://twitter.com/ijulbatagor)  
 
----
 
 ### **🔥 Fun Fact:**   
 _"Debugging: Being the detective in a crime movie where you are also the murderer."_ 💀  
 
----
 
 🚀 **Feel free to check out my repositories and drop a star if you find something useful!** ⭐  
 
----
