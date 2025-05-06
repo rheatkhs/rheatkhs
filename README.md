@@ -1,5 +1,5 @@
 
-## 👋 **Hello, I'm Rhea Takahashi!**  
+## 👋 **Hello, I'm Febiadi Wisnu Akbar!**  
 
 🚀 **Web Developer | Tech Enthusiast | Problem Solver**  
 🌍 **Based in Pekalongan, Indonesia**  
@@ -7,10 +7,10 @@
 
 ## **🧑‍💻 About Me**  
 
-- 💼 Currently working at **OFFTHEGRID** as a **Web Developer**  
-- 🌱 Exploring **JavaScript, Python, React, and Node.js**  
-- 💡 Passionate about **building responsive and interactive web applications**  
-- ⚡ Love contributing to **open-source** and solving **real-world problems**  
+💼 Currently working at **WOJI STUDIO** as a **Web Developer**  
+🌱 Exploring **JavaScript, Python, and Node.js**  
+💡 Passionate about **building responsive and interactive web applications**  
+⚡ Love contributing to **open-source** and solving **real-world problems**  
 
 
 ## **🔧 Tech Stack & Tools**  
@@ -39,9 +39,4 @@
 🐦 **Twitter:** [@ijulbatagor](https://twitter.com/ijulbatagor)  
 
 
-### **🔥 Fun Fact:**   
-_"Debugging: Being the detective in a crime movie where you are also the murderer."_ 💀  
-
-
 🚀 **Feel free to check out my repositories and drop a star if you find something useful!** ⭐  
-
