@@ -34,7 +34,7 @@
 ## **📌 Connect with Me**  
 
 🌐 **Website / Portfolio:** [auxavia.my.id](https://auxavia.my.id)  
-📧 **Email:** rheatkhs@email.com  
+📧 **Email:** rheatkhs@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/fbiakbr](https://linkedin.com/in/fbiakbr)  
 🐦 **Twitter:** [@ijulbatagor](https://twitter.com/ijulbatagor)  
 
