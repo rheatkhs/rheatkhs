@@ -6,16 +6,6 @@ I build scalable web applications primarily for the government tech sector, deve
 
 ---
 
-## Current Focus & Engineering Initiatives
-
-My primary focus lies in architecting scalable systems, publishing reusable packages, and building out robust open-source tooling. Here is a snapshot of my active development pipeline:
-
-* 📦 **NPM Package Development:** Authoring lightweight and robust content-filtering libraries for Node.js environments.
-* 🛠️ **Open-Source Tooling:** Maintaining and expanding advanced role management toolkits for CodeIgniter 4, alongside continuous iterations on core architectural projects.
-* 🏗️ **Enterprise Architecture:** Designing the backend infrastructure for comprehensive management platforms powered by Laravel.
-* 🎨 **Modern UI/UX Implementation:** Experimenting with Neobrutalism design patterns and building highly interactive frontends using Next.js.
-* 📱 **Cross-Platform Mobile:** Engineering public-facing mobile applications using Flutter to streamline localized government services.
-
 ## Technical Arsenal
 
 | Focus Area | Technologies |
