@@ -20,7 +20,6 @@ I build scalable web applications primarily for the government tech sector, deve
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/Portfolio-fbiakbr.wojistudio.id-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fbiakbr.wojistudio.id)
+[![Website](https://img.shields.io/badge/Portfolio-rheatkhs.kmnf.site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rheatkhs.kmnf.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fbiakbr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fbiakbr)
-[![X (Twitter)](https://img.shields.io/badge/Twitter-@ijulbatagor-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ijulbatagor)
 [![Email](https://img.shields.io/badge/Email-rheatkhs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rheatkhs@gmail.com)
