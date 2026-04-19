@@ -1,6 +1,6 @@
 # Febiadi Wisnu Akbar 
 
-**Software Engineer @ WOJI STUDIO** 
+**Software Engineer @ DINKOMINFO** 
 
 I build scalable web applications primarily for the government tech sector, develop open-source tooling, and have a strong focus on system security and bug bounty hunting. I enjoy experimenting with modern architectures and build highly interactive frontends.
 
