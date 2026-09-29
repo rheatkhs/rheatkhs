@@ -15,7 +15,7 @@ I build scalable web applications primarily for the government tech sector, deve
 ## Activity & Contributions
 
 <a href="https://github.com/rheatkhs">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rheatkhs&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&hide_border=true&title_color=58A6FF" alt="Febiadi's GitHub Activity Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/rheatkhs/rheatkhs/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </a>
 
 ## Connect
